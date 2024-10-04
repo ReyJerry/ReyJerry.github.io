@@ -1,4 +1,4 @@
-I study at Dalian Maritime University <img src='./images/dmu.png' style='width: 3em;'> as an undergraduate student, and at the same time, I work as a research assistant at the DUT Artificial Intelligence Institute, Dalian.
+I study at Dalian Maritime University <img src='./images/dmu.png' style='width: 1em;'> as an undergraduate student, and at the same time, I work as a research assistant at the DUT Artificial Intelligence Institute, Dalian.
 
 I am now working on bioinformatics, graph mining, llm and computer vision research. If you are seeking any form of **academic cooperation**, please feel free to email me at [lrj_@dlmu.edu.cn](mailto:lrj_@dlmu.edu.cn).
 
