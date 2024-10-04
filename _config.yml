@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "ReyJerry"
-description              : "Student at Dalian Maritime University (DMU), focusing on interdisciplinary applications of artificial intelligence, such as bioinformatics and AI-Transportation intersection. I am also highly interested in multimodal large language models (LLMs) and have worked on related projects, including the design of a tri-modal large model that integrates foot pressure, joint angles, and physician prompts."
+description              : "Student in DMU. Focusing on interdisciplinary applications of AI and multimodal LLM"
 repository               : "reyjerry/reyjerry.github.io"
 google_scholar_stats_use_cdn : true
 
