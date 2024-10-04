@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ruijie Li"
-description              : "Student in DMU. Focusing on bioinformatics, graph mining, LLM and computer vision"
+title                    : "ReyJerry"
+description              : "Student at Dalian Maritime University (DMU), focusing on interdisciplinary applications of artificial intelligence, such as bioinformatics and AI-Transportation intersection. I am also highly interested in multimodal large language models (LLMs) and have worked on related projects, including the design of a tri-modal large model that integrates foot pressure, joint angles, and physician prompts."
 repository               : "reyjerry/reyjerry.github.io"
 google_scholar_stats_use_cdn : true
 
