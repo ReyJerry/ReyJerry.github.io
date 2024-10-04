@@ -1,6 +1,4 @@
 # 🔥 News
-- *2024.03*: 🎉 Two papers are accepted by ICLR 2024
-- *2023.05*: 🎉 Five papers are accepted by ACL 2023
-- *2023.01*: DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (2000k+ views) in Bilibili!
-- *2023.01*: I join TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a speech research scientist in Singapore!
-- *2022.02*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK!
+- *2024.09*: 🎉 One paper is accepted by Applied Ocean Research (Q1)
+- *2024.09*: 🎉 One paper is accepted by IEEE Sensors Journal (Q1)
+- *2023.03*: I join the DUT Artificial Intelligence Institute in Dalian <img src='./images/dutAI.png' style='width: 6em;'> as a research assistant!
