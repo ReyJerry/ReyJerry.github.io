@@ -17,7 +17,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors Journal, Oct. 2024</div><img src='images/YOLO-SGC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[YOLO-SGC: A Dangerous Driving Behavior Detection Method With Multiscale Spatial-Channel Feature Aggregation](https://ieeexplore.ieee.org/abstract/document/10680977) //
+[YOLO-SGC: A Dangerous Driving Behavior Detection Method With Multiscale Spatial-Channel Feature Aggregation](https://ieeexplore.ieee.org/abstract/document/10680977) \\
 **Ruijie Li**, Changdong Yu, Xiangrong Qin, et al.
 - YOLO-SGC is the first dangerous driving detection method that focuses on both facial expressions and hand movements with multiscale spatial-channel feature aggregation.
 </div>
