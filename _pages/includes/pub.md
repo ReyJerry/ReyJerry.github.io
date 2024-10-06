@@ -12,7 +12,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2024</div><img src='images/HIDG-DTI.tif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioinformatics 2024</div><img src='images/HIDG-DTI.tif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HIDG-DTI: A Homogenous Information Enhanced Dual Encoder Graph Neural Networks For Drug-Target Interaction Prediction](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
