@@ -6,7 +6,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2024</div><img src='images/DMHMDA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DMHMDA: A Dual-Network Learning Approach With ``Similarity-Association-Similarity" Metapaths and Heterogeneous-Hyper Network For MiRNA-Disease Association](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
+[DMHMDA: A Dual-Network Learning Approach With ``Similarity-Association-Similarity" Metapaths and Heterogeneous-Hyper Network For MiRNA-Disease Association]() \\
 **Ruijie Li**, Qiao Ning, Yaomiao Zhao, Shikai Guo, Hui Li
 - DMHMDA is the first end-to-end miRNA-disease association prediction model that utilizes similarity edges and hyperedges to address the sparsity issue encountered in heterogeneous graph learning.
 </div>
@@ -15,7 +15,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioinformatics 2024</div><img src='images/HIDG-DTI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[HIDG-DTI: A Homogenous Information Enhanced Dual Encoder Graph Neural Networks For Drug-Target Interaction Prediction](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
+[HIDG-DTI: A Homogenous Information Enhanced Dual Encoder Graph Neural Networks For Drug-Target Interaction Prediction]() \\
 Xiang Zhao, Qiao Ning, **Ruijie Li**, Shikai Guo, Hui Li
 </div>
 </div>
