@@ -7,7 +7,7 @@
 <div class='paper-box-text' markdown="1">
 
 [MHMDA: "Similarity-Association-Similarity" Metapaths and Heterogeneous-Hyper Network For MiRNA-Disease Association]() \\
-**Ruijie Li**, Qiao Ning, Yaomiao Zhao, Shikai Guo, Hui Li
+**Ruijie Li**, Qiao Ning, Yaomiao Zhao, et al
 </div>
 </div>
 
@@ -15,7 +15,7 @@
 <div class='paper-box-text' markdown="1">
 
 [HIDG-DTI: A Homogenous Information Enhanced Dual Encoder Graph Neural Networks For Drug-Target Interaction Prediction]() \\
-Xiang Zhao, Qiao Ning, **Ruijie Li**, Shikai Guo, Hui Li
+Xiang Zhao, Qiao Ning, **Ruijie Li**, et al
 </div>
 </div>
 
@@ -23,7 +23,7 @@ Xiang Zhao, Qiao Ning, **Ruijie Li**, Shikai Guo, Hui Li
 <div class='paper-box-text' markdown="1">
 
 [Cross Attention and Intra-layer Attention in Heterogeneous Graph Neural Networks for Drug–Target Interaction Prediction]() \\
-Kuiyang Che, Qiao Ning, **Ruijie Li**, Xirun Wei, Shikai Guo, Hui Li
+Kuiyang Che, Qiao Ning, **Ruijie Li**, et al
 </div>
 </div>
 ## 🚗 AI-Transportation Intersection
