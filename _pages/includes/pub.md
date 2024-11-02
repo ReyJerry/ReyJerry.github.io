@@ -3,7 +3,7 @@
 ## 🧬 Bioinformatics
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/ACM Transactions on Computational Biology and Bioinformatics 2024</div><img src='images/DMHMDA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/ACM Transactions on Computational Biology and Bioinformatics 2024</div><img src='images/MHMDA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MHMDA: "Similarity-Association-Similarity" Metapaths and Heterogeneous-Hyper Network for MiRNA-Disease Association]() \\
