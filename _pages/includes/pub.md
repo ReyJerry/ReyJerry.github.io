@@ -14,7 +14,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioinformatics 2024</div><img src='images/HIDG-DTI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[HIDGN: A Homogenous Information Enhanced Dual Encoder Graph Neural Networks For Drug-Target Interaction Prediction]() \\
+[HIDGN: A Homogenous Information Enhanced Dual Encoder Graph Neural Networks for Drug-Target Interaction Prediction]() \\
 Xiang Zhao, Qiao Ning, **Ruijie Li**, Shikai Guo, Hui Li
 </div>
 </div>
@@ -30,7 +30,7 @@ Kuiyang Che, Qiao Ning, **Ruijie Li**, Xirun Wei, Shikai Guo, Hui Li
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioinformatics 2024</div><img src='images/MHCLDDI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multi-view hypergraph learning integrated contrastive learning for drug-drug interaction prediction]() \\
+[Multi-View Hypergraph Learning Integrated Contrastive Learning for Drug-Drug Interaction Prediction]() \\
 Xinyu Li, Qiao Ning, **Ruijie Li**, Shikai Guo, Hui Li
 </div>
 </div>
