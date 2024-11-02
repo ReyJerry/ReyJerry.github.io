@@ -26,6 +26,14 @@ Xiang Zhao, Qiao Ning, **Ruijie Li**, Shikai Guo, Hui Li
 Kuiyang Che, Qiao Ning, **Ruijie Li**, Xirun Wei, Shikai Guo, Hui Li
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioinformatics 2024</div><img src='images/MHCLDDI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-view hypergraph learning integrated contrastive learning for drug-drug interaction prediction]() \\
+Xinyu Li, Qiao Ning, **Ruijie Li**, Shikai Guo, Hui Li
+</div>
+</div>
 ## 🚗 AI-Transportation Intersection
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors Journal, Oct. 2024</div><img src='images/YOLO-SGC.png' alt="sym" width="100%"></div></div>
