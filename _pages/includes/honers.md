@@ -1,6 +1,6 @@
 # 🎖 Honors and Awards
 - *2024.11* COSCO SHIPPING Technology Innovation Pacesetter (one of only ten in the entire school, 10/33623, Top 0.030%)
-- *2024.11* Mi Scholarship (one of only forty in the entire school, 40/33623, Top 0.119%)
+- *2024.11* Xiaomi Scholarship (one of only forty in the entire school, 40/33623, Top 0.119%)
 - *2024.11* EQ Scholarship, Social Practice Category (Undergraduate Top 1%)
 - *2024.11* Individual Scholarship, Competition Category (Undergraduate)
 - *2024.11* Individual Scholarship, Academic Progress Category (Undergraduate)
