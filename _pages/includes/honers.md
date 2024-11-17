@@ -1,6 +1,6 @@
 # 🎖 Honors and Awards
-- *2024.11* COSCO SHIPPING Technology Innovation Pacesetter (Only 10 students selected across Undergraduate, Master & PhD, Top 0.030%)
-- *2024.11* Xiaomi Scholarship (Only 40 students selected across Undergraduate, Master & PhD, Top 0.119%)
+- *2024.11* COSCO SHIPPING Technology Innovation Pacesetter (Only 10 students selected across Undergraduate, Master and PhD, Top 0.030%)
+- *2024.11* Xiaomi Scholarship (Only 40 students selected across Undergraduate, Master and PhD, Top 0.119%)
 - *2024.11* Merit Student (Undergraduate Top 3%)
 - *2024.11* EQ Scholarship, Social Practice Category (Undergraduate Top 1%)
 - *2024.11* Individual Scholarship, Competition Category (Undergraduate)
