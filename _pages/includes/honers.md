@@ -7,6 +7,6 @@
 - *2024.11* Individual Scholarship, Academic Progress Category (Undergraduate)
 - *2023.11* EQ Scholarship, Technological Innovation Category (Undergraduate Top 1%)
 - *2023.11* Outstanding Student Scholarship (Undergraduate Top 15%)
-- *2023.11* Individual Scholarship, Academic Progress Category (UG)
+- *2023.11* Individual Scholarship, Academic Progress Category (Undergraduate)
 - *2022.11* EQ Scholarship, Technological Innovation Category (Undergraduate Top 3%)
 - *2022.11* Outstanding Student Scholarship (Undergraduate Top 15%)
