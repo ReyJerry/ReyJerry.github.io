@@ -36,7 +36,7 @@ Xinyu Li, Qiao Ning, **Ruijie Li**, Shikai Guo, Hui Li
 </div>
 ## 🚗 AI-Transportation Intersection
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors Journal, Nov. 2024</div><img src='images/YOLO-SGC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors Journal, Sep. 2024</div><img src='images/YOLO-SGC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [YOLO-SGC: A Dangerous Driving Behavior Detection Method With Multiscale Spatial-Channel Feature Aggregation](https://ieeexplore.ieee.org/abstract/document/10680977) \\
