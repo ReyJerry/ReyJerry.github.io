@@ -19,7 +19,7 @@ Xiang Zhao, Qiao Ning, **Ruijie Li**, Shikai Guo, Hui Li
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/ACM Transactions on Computational Biology and Bioinformatics 2024</div><img src='images/CAIHGNN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/ACM Transactions on Computational Biology and Bioinformatics 2024</div><img src='images/CAHGNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Cross Attention and Intra-layer Attention in Heterogeneous Graph Neural Networks for Drug–Target Interaction Prediction]() \\
