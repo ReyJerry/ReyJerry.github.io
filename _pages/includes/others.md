@@ -1,5 +1,6 @@
 
 # 📖 Educations
+- *2025.09 - 2027.06*, Mphil, AI thrust, Information Hub, Hong Kong University of Science and Technology(GuangZhou).
 - *2021.09 - 2025.06*, Undergraduate, School of Information Science And Technology, Dalian Martime Univeristy, Dalian.
 - *2018.09 - 2021.06*, Xiamen No.6 High School, Xiamen.
 
@@ -7,4 +8,4 @@
 - None
 
 # 💻 Internships
-- *2023.03 - Present*, DUT Artificial Intelligence Institute, Dalian.
+- *2023.03 - 2025.06*, DUT Artificial Intelligence Institute, Dalian.
