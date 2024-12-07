@@ -1,4 +1,4 @@
-I study at AI thrust in the Information Hub at HKUST(GZ) <img src='./images/hkust(gz).png' style='width: 1.5em;'> as a MPhil student, and at the same time, I work as a research assistant at the DUT Artificial Intelligence Institute, Dalian.
+I study at AI thrust in the Information Hub at HKUST(GZ) <img src='./images/hkust(gz).png' style='width: 1.3em;'> as a MPhil student, and at the same time, I work as a research assistant at the DUT Artificial Intelligence Institute, Dalian.
 
 I am now working on interdisciplinary applications of AI and multimodal LLM. If you are seeking any form of **academic cooperation**, please feel free to email me at [l15759278244@gmail.com](mailto:l15759278244@gmail.com).
 
