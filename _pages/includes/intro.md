@@ -1,4 +1,4 @@
-I study at Dalian Maritime University <img src='./images/dmu.png' style='width: 1.5em;'> as an undergraduate student, and at the same time, I work as a research assistant at the DUT Artificial Intelligence Institute, Dalian.
+I study at AI thrust in the Information Hub at HKUST(GZ) <img src='./images/hkust(gz).png' style='width: 1.5em;'> as a mphil student, and at the same time, I work as a research assistant at the DUT Artificial Intelligence Institute, Dalian.
 
 I am now working on interdisciplinary applications of AI and multimodal LLM. If you are seeking any form of **academic cooperation**, please feel free to email me at [lrj_@dlmu.edu.cn](mailto:lrj_@dlmu.edu.cn).
 
