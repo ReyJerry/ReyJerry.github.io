@@ -1,4 +1,5 @@
 # 🔥 News
+- *2024.12*: 🎉 As a MPhil student join the AI thrust in the Information Hub at HKUST(GZ)
 - *2024.11*: 🎉 The recipient of the COSCO SHIPPING Technology Innovation Pacesetter title (Top 0.030%)
 - *2024.11*: 🎉 The recipient of the Xiaomi Scholarship (Top 0.119%)
 - *2024.09*: 🎉 One paper is accepted by <img src='./images/apor.png' style='width: 1.5em;'> <sup>Applied Ocean Research</sup> (Q1) 
