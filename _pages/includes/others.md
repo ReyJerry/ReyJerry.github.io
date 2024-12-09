@@ -8,4 +8,4 @@
 - None
 
 # 💻 Internships
-- *2023.03 - 2025.06*, Research Assistant, DUT Artificial Intelligence Institute, Dalian.
+- *2023.03 - 2025.06*, RA (temporary research assistant), DUT Artificial Intelligence Institute, Dalian.
