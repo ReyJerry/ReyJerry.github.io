@@ -1,4 +1,5 @@
 # 🎖 Honors and Awards
+- *2025.9 - 2027.10* HKUST (GZ) RedBird Mphil Award (10,000 RMB/month)
 - *2024.11* COSCO SHIPPING Technology Innovation Pacesetter (Only 10 students selected across Undergraduate, Master and PhD, Top 0.030%)
 - *2024.11* Xiaomi Scholarship (Only 40 students selected across Undergraduate, Master and PhD, Top 0.119%)
 - *2024.11* Merit Student (Undergraduate Top 3%)
