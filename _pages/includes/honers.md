@@ -1,8 +1,8 @@
 # 🎖 Honors and Awards
 - *2025.09 - 2027.10* HKUST(GZ) RedBird Mphil Award <img src='./images/RedBird.png' style='width: 1.5em;'> (10,000 RMB/month)
 - *2024.12* Outstanding Graduates of Dalian, China (Top 3%)
-- *2024.11* COSCO SHIPPING Technology Innovation Pacesetter<img src='./images/cosco.png' style='width: 3.0em;'>(Only 10 students selected across Undergraduate, Master, PhD, Top 0.030%)
-- *2024.11* Xiaomi Scholarship <img src='./images/xiaomi.png' style='width: 5.3em;'> (Only 40 students selected across Undergraduate, Master, PhD, Top 0.119%)
+- *2024.11* COSCO SHIPPING Technology Innovation Pacesetter<img src='./images/cosco.png' style='width: 3.0em;'>(Only 10 students selected across Undergraduate/Master/PhD, Top 0.030%)
+- *2024.11* Xiaomi Scholarship <img src='./images/xiaomi.png' style='width: 5.3em;'> (Only 40 students selected across Undergraduate/Master/PhD, Top 0.119%)
 - *2024.11* Merit Student (Undergraduate Top 3%)
 - *2024.11* EQ Scholarship, Social Practice Category (Undergraduate Top 1%)
 - *2024.11* Individual Scholarship, Competition Category (Undergraduate)
