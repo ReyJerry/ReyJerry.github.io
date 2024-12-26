@@ -1,5 +1,5 @@
 # 🎖 Honors and Awards
-- *2025.09 - 2027.10* HKUST(GZ) Postgraduate Studentship (PGS) Award <img src='./images/PGS.png' style='width: 1.5em;'> (CNY10,000 per month)
+- *2025.09 - 2027.10* HKUST(GZ) Postgraduate Studentship (PGS) Award <img src='./images/PGS.png' style='width: 1.5em;'> (CNY10,000/month)
 - *2024.12* Outstanding Graduates of Dalian, China <img src='./images/dalian.png' style='width: 1.5em;'> (Top 3%)
 - *2024.11* COSCO SHIPPING Technology Innovation Pacesetter<img src='./images/cosco.png' style='width: 2.5em;'>(Only 10 students selected across Undergraduate/Master/PhD, Top 0.030%)
 - *2024.11* Xiaomi Scholarship <img src='./images/xiaomi.png' style='width: 4.5em;'> (Only 40 students selected across Undergraduate/Master/PhD, Top 0.119%)
