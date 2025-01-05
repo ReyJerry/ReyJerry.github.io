@@ -6,7 +6,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Computational Biology and Bioinformatics, Dec. 2024</div><img src='images/MHMDA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MHMDA: "Similarity-Association-Similarity" Metapaths and Heterogeneous-Hyper Network for MiRNA-Disease Association Prediction]() \\
+[MHMDA: "Similarity-Association-Similarity" Metapaths and Heterogeneous-Hyper Network for MiRNA-Disease Association Prediction](https://ieeexplore.ieee.org/abstract/document/10819938) \\
 **Ruijie Li**, Qiao Ning, Yaomiao Zhao, Shikai Guo, Hui Li
 </div>
 </div>
