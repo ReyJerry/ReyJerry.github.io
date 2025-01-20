@@ -11,11 +11,35 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioinformatics 2025</div><img src='images/HIDG-DTI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/HydraNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HydraNet: Momentum-Driven State Space Modeling for Multi-Grained Tennis Tournaments Analysis]() \\
+**Ruijie Li**, Xiang Zhao, Qiao Ning
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/DCFA-DMP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Divergence-Convergence Feature Augmentation Framework with Multi-view Contrastive Learning for Drug-related Microbes Prediction]() \\
+Xin An, **Ruijie Li**, Qiao Ning, Shikai Guo, Hui Li, Qian Ma
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/MHCLDDI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Drug-drug Interaction Prediction with Molecular-Driven Hypergraph Contrastive Learning]() \\
+Xinyu Li, **Ruijie Li**, Qiao Ning, Shikai Guo, Hui Li, Qian Ma
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Briefings in Bioinformatics 2025</div><img src='images/HIDG-DTI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HIDGN: A Homogenous Information Enhanced Dual Encoder Graph Neural Networks for Drug-Target Interaction Prediction]() \\
-Xiang Zhao, Qiao Ning, **Ruijie Li**, Shikai Guo, Hui Li, Qian Ma
+Xiang Zhao, Qiao Ning, **Ruijie Li**, Shikai Guo, Hui Li, Qian Ma, Qian Ma
 </div>
 </div>
 
@@ -24,14 +48,6 @@ Xiang Zhao, Qiao Ning, **Ruijie Li**, Shikai Guo, Hui Li, Qian Ma
 
 [Cross Attention and Intra-layer Attention in Heterogeneous Graph Neural Networks for Drug–Target Interaction Prediction]() \\
 Kuiyang Che, Qiao Ning, **Ruijie Li**, Xirun Wei, Shikai Guo, Hui Li
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioinformatics 2025</div><img src='images/MHCLDDI.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Multi-View Hypergraph Learning Integrated Contrastive Learning for Drug-Drug Interaction Prediction]() \\
-Xinyu Li, Qiao Ning, **Ruijie Li**, Shikai Guo, Hui Li
 </div>
 </div>
 ## 🚗 AI-Transportation Intersection
