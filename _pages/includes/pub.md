@@ -39,7 +39,7 @@ Xinyu Li, **Ruijie Li**, Qiao Ning, Shikai Guo, Hui Li, Qian Ma
 <div class='paper-box-text' markdown="1">
 
 [HIDGN: A Homogenous Information Enhanced Dual Encoder Graph Neural Networks for Drug-Target Interaction Prediction]() \\
-Xiang Zhao, Qiao Ning, **Ruijie Li**, Shikai Guo, Hui Li, Qian Ma, Qian Ma
+Xiang Zhao, Qiao Ning, **Ruijie Li**, Shikai Guo, Hui Li, Qian Ma
 </div>
 </div>
 
