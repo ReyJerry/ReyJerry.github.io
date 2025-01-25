@@ -11,7 +11,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/HydraNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/HydraNet-final.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HydraNet: Momentum-Driven State Space Modeling for Multi-Grained Tennis Tournaments Analysis]() \\
