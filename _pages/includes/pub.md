@@ -35,7 +35,7 @@ Xinyu Li, **Ruijie Li**, Qiao Ning, Shikai Guo, Hui Li, Qian Ma
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Briefings in Bioinformatics 2025</div><img src='images/HIDG-DTI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Neural Networks and Learning Systems 2025</div><img src='images/HIDG-DTI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HIDGN: A Homogenous Information Enhanced Dual Encoder Graph Neural Networks for Drug-Target Interaction Prediction]() \\
