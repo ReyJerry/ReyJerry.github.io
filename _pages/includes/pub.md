@@ -2,20 +2,11 @@
 # 📝 Publications 
 ## 🧬 Bioinformatics
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Computational Biology and Bioinformatics, Dec. 2024</div><img src='images/MHMDA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MHMDA: "Similarity-Association-Similarity" Metapaths and Heterogeneous-Hyper Network for MiRNA-Disease Association Prediction](https://ieeexplore.ieee.org/abstract/document/10819938) \\
 **Ruijie Li**, Qiao Ning, Yaomiao Zhao, Shikai Guo, Hui Li
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/HydraNet-final.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[HydraNet: Momentum-Driven State Space Modeling for Multi-Grained Tennis Tournaments Analysis]() \\
-**Ruijie Li**, Xiang Zhao, Qiao Ning
 </div>
 </div>
 
@@ -61,6 +52,15 @@ Kuiyang Che, Qiao Ning, **Ruijie Li**, Xirun Wei, Shikai Guo, Hui Li
 </div>
 
 - `Applied Ocean Research, Dec. 2024` [YOLO-MRS: An efficient deep learning-based maritime object detection method for unmanned surface vehicles](https://www.sciencedirect.com/science/article/abs/pii/S0141118724003614), Changdong Yu, Haoke Yin, Chenyi Rong<sup>3</sup>, Jiayi Zhao<sup>3</sup>, Xiao Liang<sup>3</sup>, **Ruijie Li<sup>3</sup>**, et al.
+
+## 🏀 AI-Sport Intersection
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/HydraNet-final.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HydraNet: Momentum-Driven State Space Modeling for Multi-Grained Tennis Tournaments Analysis]() \\
+**Ruijie Li**, Xiang Zhao, Qiao Ning
+</div>
+</div>
 
 ## Others
 - None
