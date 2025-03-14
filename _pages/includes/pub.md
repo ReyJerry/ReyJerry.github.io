@@ -26,10 +26,10 @@ Xinyu Li<sup>1</sup>, **Ruijie Li<sup>1</sup>**, Qiao Ning, Shikai Guo, Hui Li, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Neural Networks and Learning Systems 2025</div><img src='images/HIDG-DTI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Neural Networks and Learning Systems 2025</div><img src='images/SOC-DGL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[HIDGN: A Homogenous Information Enhanced Dual Encoder Graph Neural Networks for Drug-Target Interaction Prediction]() \\
+[SOC-DGL: Social Interaction Behavior Inspired Dual Graph Learning Framework for Drug-Target Interaction Identification]() \\
 Xiang Zhao<sup>1</sup>, **Ruijie Li<sup>1</sup>**, Qiao Ning, Shikai Guo, Hui Li, Qian Ma
 </div>
 </div>
