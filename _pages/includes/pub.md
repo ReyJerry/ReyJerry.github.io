@@ -10,7 +10,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Sciences 2025</div><img src='images/DCFA-DMP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based Systems 2025</div><img src='images/DCFA-DMP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Divergence-Convergence Feature Augmentation Framework with Multi-view Contrastive Learning for Drug-related Microbes Prediction]() \\
@@ -18,7 +18,7 @@ Xin An<sup>1</sup>, **Ruijie Li<sup>1</sup>**, Qiao Ning, Shikai Guo, Hui Li, Qi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Sciences 2025</div><img src='images/MHCLDDI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based Systems 2025</div><img src='images/MHCLDDI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Drug-drug Interaction Prediction with Molecular-Driven Hypergraph Contrastive Learning]() \\
