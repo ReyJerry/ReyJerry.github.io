@@ -18,7 +18,7 @@ Xin An<sup>1</sup>, **Ruijie Li<sup>1</sup>**, Qiao Ning, Shikai Guo, Hui Li, Qi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based Systems 2025</div><img src='images/MHCLDDI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2025</div><img src='images/MHCLDDI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Drug-drug Interaction Prediction with Molecular-Driven Hypergraph Contrastive Learning]() \\
