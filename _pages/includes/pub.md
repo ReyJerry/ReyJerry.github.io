@@ -10,7 +10,15 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based Systems 2025</div><img src='images/DCFA-DMP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Neural Networks and Learning Systems 2025</div><img src='images/SOC-DGL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SOC-DGL: Social Interaction Behavior Inspired Dual Graph Learning Framework for Drug-Target Interaction Identification]() \\
+Xiang Zhao<sup>1</sup>, **Ruijie Li<sup>1</sup>**, Qiao Ning, Shikai Guo, Hui Li, Qian Ma
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Computational Biology and Bioinformatics 2025</div><img src='images/DCFA-DMP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Multi-view Divergence-Convergence Feature Augmentation Framework for Drug-related Microbes Prediction]() \\
@@ -23,14 +31,6 @@ Xin An<sup>1</sup>, **Ruijie Li<sup>1</sup>**, Qiao Ning, Shikai Guo, Hui Li, Qi
 
 [Drug-drug Interaction Prediction with Molecular-Driven Hypergraph Contrastive Learning]() \\
 Xinyu Li<sup>1</sup>, **Ruijie Li<sup>1</sup>**, Qiao Ning, Shikai Guo, Hui Li, Qian Ma
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Neural Networks and Learning Systems 2025</div><img src='images/SOC-DGL.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[SOC-DGL: Social Interaction Behavior Inspired Dual Graph Learning Framework for Drug-Target Interaction Identification]() \\
-Xiang Zhao<sup>1</sup>, **Ruijie Li<sup>1</sup>**, Qiao Ning, Shikai Guo, Hui Li, Qian Ma
 </div>
 </div>
 
