@@ -1,6 +1,6 @@
 
 # 📝 Publications 
-†: These authors contributed equally to this work.
+†: These authors contributed equally to this work.<br>
 *: Correspoonding Author.
 ## 🧬 Bioinformatics
 
