@@ -8,4 +8,4 @@
 - None
 
 # 💻 Internships
-- *2023.03 - Present*, Research Assistant, TSMC Intelligent Software Engineering Laboratory and DUT Artificial Intelligence Institute.
+- *2023.03 - 2025.06*, Research Assistant, TSMC Intelligent Software Engineering Laboratory and DUT Artificial Intelligence Institute.
