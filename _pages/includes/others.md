@@ -8,4 +8,4 @@
 - None
 
 # 💻 Internships
-- *2023.03 - Present*, Research Assistant, DUT Artificial Intelligence Institute and Dalian Key Laboratory of Artificial Intelligence, Dalian.
+- *2023.03 - Present*, Research Assistant, TSMC Intelligent Software Engineering Laboratory, DUT Artificial Intelligence Institute and Dalian Key Laboratory of Artificial Intelligence, Dalian.
