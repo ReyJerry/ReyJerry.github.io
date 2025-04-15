@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 †: These authors contributed equally to this work.<br>
-*: Correspoonding Author.
+*: Corresponding Author.
 ## 🧬 Bioinformatics
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Computational Biology and Bioinformatics, Dec. 2024</div><img src='images/MHMDA.png' alt="sym" width="100%"></div></div>
