@@ -6,7 +6,7 @@
 <div class='paper-box-text' markdown="1">
 
 [MHMDA: "Similarity-Association-Similarity" Metapaths and Heterogeneous-Hyper Network for MiRNA-Disease Association Prediction](https://ieeexplore.ieee.org/abstract/document/10819938) \\
-**Ruijie Li**, Qiao Ning, Yaomiao Zhao, Shikai Guo, Hui Li
+**Ruijie Li**, Qiao Ning<sup>*</sup>, Yaomiao Zhao, Shikai Guo, Hui Li
 </div>
 </div>
 
@@ -14,7 +14,7 @@
 <div class='paper-box-text' markdown="1">
 
 [SOC-DGL: Social Interaction Behavior Inspired Dual Graph Learning Framework for Drug-Target Interaction Identification]() \\
-Xiang Zhao<sup>1</sup>, **Ruijie Li<sup>1</sup>**, Qiao Ning, Shikai Guo, Hui Li, Qian Ma
+Xiang Zhao<sup>†</sup>, **Ruijie Li<sup>†</sup>**, Qiao Ning<sup>*</sup>, Shikai Guo, Hui Li, Qian Ma
 </div>
 </div>
 
@@ -22,7 +22,7 @@ Xiang Zhao<sup>1</sup>, **Ruijie Li<sup>1</sup>**, Qiao Ning, Shikai Guo, Hui Li
 <div class='paper-box-text' markdown="1">
 
 [A Multi-view Divergence-Convergence Feature Augmentation Framework for Drug-related Microbes Prediction]() \\
-Xin An<sup>1</sup>, **Ruijie Li<sup>1</sup>**, Qiao Ning, Shikai Guo, Hui Li, Qian Ma
+Xin An<sup>†</sup>, **Ruijie Li<sup>†</sup>**, Qiao Ning<sup>*</sup>, Shikai Guo, Hui Li, Qian Ma
 </div>
 </div>
 
@@ -30,7 +30,7 @@ Xin An<sup>1</sup>, **Ruijie Li<sup>1</sup>**, Qiao Ning, Shikai Guo, Hui Li, Qi
 <div class='paper-box-text' markdown="1">
 
 [Molecular-driven Multi-view Hypergraph Contrastive Learning for Drug-drug Interaction Prediction]() \\
-Xinyu Li<sup>1</sup>, **Ruijie Li<sup>1</sup>**, Qiao Ning, Shikai Guo, Hui Li, Qian Ma
+Xinyu Li<sup>†</sup>, **Ruijie Li<sup>†</sup>**, Qiao Ning<sup>*</sup>, Shikai Guo, Hui Li, Qian Ma
 </div>
 </div>
 
@@ -38,7 +38,7 @@ Xinyu Li<sup>1</sup>, **Ruijie Li<sup>1</sup>**, Qiao Ning, Shikai Guo, Hui Li, 
 <div class='paper-box-text' markdown="1">
 
 [Cross Attention and Intra-layer Attention in Heterogeneous Graph Neural Networks for Drug–Target Interaction Prediction]() \\
-Kuiyang Che, Qiao Ning, **Ruijie Li**, Xirun Wei, Shikai Guo, Hui Li
+Kuiyang Che, Qiao Ning<sup>*</sup>, **Ruijie Li**, Xirun Wei, Shikai Guo, Hui Li
 </div>
 </div>
 ## 🚗 AI4Transportation
@@ -47,18 +47,18 @@ Kuiyang Che, Qiao Ning, **Ruijie Li**, Xirun Wei, Shikai Guo, Hui Li
 <div class='paper-box-text' markdown="1">
 
 [YOLO-SGC: A Dangerous Driving Behavior Detection Method With Multiscale Spatial-Channel Feature Aggregation](https://ieeexplore.ieee.org/abstract/document/10680977) \\
-**Ruijie Li**, Changdong Yu, Xiangrong Qin, Xin An, Jinpeng Zhao, Wenhui Chuai, et al.
+**Ruijie Li**, Changdong Yu<sup>*</sup>, Xiangrong Qin, Xin An, Jinpeng Zhao, Wenhui Chuai, et al.
 </div>
 </div>
 
-- `Applied Ocean Research, Dec. 2024` [YOLO-MRS: An efficient deep learning-based maritime object detection method for unmanned surface vehicles](https://www.sciencedirect.com/science/article/abs/pii/S0141118724003614), Changdong Yu, Haoke Yin, Chenyi Rong<sup>3</sup>, Jiayi Zhao<sup>3</sup>, Xiao Liang<sup>3</sup>, **Ruijie Li<sup>3</sup>**, et al.
+- `Applied Ocean Research, Dec. 2024` [YOLO-MRS: An efficient deep learning-based maritime object detection method for unmanned surface vehicles](https://www.sciencedirect.com/science/article/abs/pii/S0141118724003614), Changdong Yu, Haoke Yin, Chenyi Rong<sup>†</sup>, Jiayi Zhao<sup>†</sup>, Xiao Liang<sup>*, †</sup>, **Ruijie Li<sup>†</sup>**, et al.
 
 ## 🏀 AI4Sports
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/HydraNet-f.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HydraNet: Momentum-Driven State Space Modeling for Multi-Grained Tennis Tournaments Analysis]() \\
-**Ruijie Li**, Xiang Zhao, Qiao Ning, Shikai Guo
+**Ruijie Li**, Xiang Zhao, Qiao Ning<sup>*</sup>, Shikai Guo
 </div>
 </div>
 
