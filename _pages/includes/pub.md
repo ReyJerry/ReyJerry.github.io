@@ -23,7 +23,7 @@ Xiang Zhao<sup>†</sup>, **Ruijie Li<sup>†</sup>**, Qiao Ning<sup>*</sup>, Sh
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Computational Biology and Bioinformatics 2025</div><img src='images/DCFA-DMP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Multi-view Divergence-Convergence Feature Augmentation Framework for Drug-related Microbes Prediction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5214161) \\
+[A Multi-view Divergence-Convergence Feature Augmentation Framework for Drug-related Microbes Prediction]() \\
 Xin An<sup>†</sup>, **Ruijie Li<sup>†</sup>**, Qiao Ning<sup>*</sup>, Shikai Guo, Hui Li, Qian Ma
 </div>
 </div>
@@ -31,7 +31,7 @@ Xin An<sup>†</sup>, **Ruijie Li<sup>†</sup>**, Qiao Ning<sup>*</sup>, Shikai
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2025</div><img src='images/Mol-HCL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Molecular-driven Multi-view Hypergraph Contrastive Learning for Drug-drug Interaction Prediction]() \\
+[Molecular-driven Multi-view Hypergraph Contrastive Learning for Drug-drug Interaction Prediction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5214161) \\
 Xinyu Li<sup>†</sup>, **Ruijie Li<sup>†</sup>**, Qiao Ning<sup>*</sup>, Shikai Guo, Hui Li, Qian Ma
 </div>
 </div>
