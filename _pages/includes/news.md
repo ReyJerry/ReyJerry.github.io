@@ -1,5 +1,5 @@
 # 🔥 News
-- *2024.12*: 🎉 The recipient of the Outstanding Graduates of Dalian, China <img src='./images/dalian.png' style='width: 1.5em;'> (Top 3%)
+- *2025.04*: 🎉 The recipient of the Outstanding Graduates of Dalian, China <img src='./images/dalian.png' style='width: 1.5em;'> (Top 3%)
 - *2024.12*: 🎉 The 2024 National College Students Innovation and Entrepreneurship Training Program project <img src='./images/NCS.png' style='width: 1.5em;'> I led received the National-Level Outstanding Project Completion award with the highest score (96.25/100) !
 - *2024.12*: 🎉 One paper is accepted by <img src='./images/TCBB.png' style='width: 1.5em;'> <sup>IEEE Transactions on Computational Biology and Bioinformatics</sup> (Q1, CCF B) 
 - *2024.12*: 🎉 I join the AI thrust under the Information Hub at HKUST(GZ) <img src='./images/hkust(gz)1.png' style='width: 7.5em;'> as an MPhil student!
