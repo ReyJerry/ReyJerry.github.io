@@ -59,7 +59,7 @@ Kuiyang Che, Qiao Ning<sup>*</sup>, **Ruijie Li**, Xirun Wei, Shikai Guo, Hui Li
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2025</div><img src='images/HydraNet-f.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[HydraNet: Momentum-Driven State Space Modeling for Multi-Grained Tennis Tournaments Analysis]() \\
+[HydraNet: Momentum-Driven State Space Modeling for Multi-Grained Tennis Tournaments Analysis](https://arxiv.org/abs/2505.21882) \\
 **Ruijie Li**, Xiang Zhao, Qiao Ning<sup>*</sup>, Shikai Guo
 </div>
 </div>
