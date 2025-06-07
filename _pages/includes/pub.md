@@ -15,8 +15,8 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Journal of Biomedical and Health Informatics 2025</div><img src='images/SOC-DGL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SOC-DGL: Social Interaction Behavior Inspired Dual Graph Learning Framework for Drug-Target Interaction Identification]() \\
-Xiang Zhao<sup>†</sup>, **Ruijie Li<sup>†</sup>**, Qiao Ning<sup>*</sup>, Shikai Guo, Hui Li, Qian Ma
+[SOC-DGL: Social Interaction Behavior Inspired Dual Graph Learning Framework for Drug-Target Interaction Identification](https://arxiv.org/abs/2506.01405) \\
+Xiang Zhao<sup>†</sup>, **Ruijie Li<sup>†</sup>**, Qiao Ning<sup>*</sup>, Shikai Guo<sup>*</sup>, Hui Li, Qian Ma
 </div>
 </div>
 
