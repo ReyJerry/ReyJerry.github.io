@@ -12,7 +12,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Journal of Biomedical and Health Informatics 2025</div><img src='images/SOC-DGL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[IEEE Journal of Biomedical and Health Informatics 2025](https://www.letpub.com.cn/index.php?journalid=9464&page=journalapp&view=detail)</div><img src='images/SOC-DGL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SOC-DGL: Social Interaction Behavior Inspired Dual Graph Learning Framework for Drug-Target Interaction Identification](https://arxiv.org/abs/2506.01405) \\
