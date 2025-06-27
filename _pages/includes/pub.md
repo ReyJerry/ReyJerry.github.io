@@ -40,7 +40,7 @@ Xinyu Li<sup>†</sup>, **Ruijie Li<sup>†</sup>**, Qiao Ning<sup>*</sup>, Shik
 <div class='paper-box-text' markdown="1">
 
 [Cross Attention and Intra-layer Attention in Heterogeneous Graph Neural Networks for Drug–Target Interaction Prediction]() \\
-Kuiyang Che, Qiao Ning<sup>*</sup>, **Ruijie Li**, Xirun Wei, Shikai Guo, Hui Li
+Kuiyang Che, Qiao Ning<sup>*</sup>, **Ruijie Li**, Xirun Wei, Hui Li, Shikai Guo
 </div>
 </div>
 ## 🚗 AI4Transportation
