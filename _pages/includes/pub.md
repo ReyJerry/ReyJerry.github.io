@@ -4,7 +4,7 @@
 *: Corresponding author.
 ## 🧬 Bioinformatics
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Computational Biology and Bioinformatics, Dec. 2024</div><img src='images/MHMDA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Computational Biology and Bioinformatics, Jan. 2025</div><img src='images/MHMDA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MHMDA: "Similarity-Association-Similarity" Metapaths and Heterogeneous-Hyper Network for MiRNA-Disease Association Prediction](https://ieeexplore.ieee.org/abstract/document/10819938) \\
@@ -36,7 +36,7 @@ Xinyu Li<sup>†</sup>, **Ruijie Li<sup>†</sup>**, Qiao Ning<sup>*</sup>, Shik
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Computational Biology and Bioinformatics, Jun. 2025</div><img src='images/CAHGNN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Computational Biology and Bioinformatics, Jul. 2025</div><img src='images/CAHGNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Cross Attention and Intra-layer Attention in Heterogeneous Graph Neural Networks for Drug–Target Interaction Prediction](https://ieeexplore.ieee.org/document/11060925) \\
