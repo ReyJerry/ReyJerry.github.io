@@ -20,6 +20,14 @@ Xiang Zhao<sup>†</sup>, **Ruijie Li<sup>†</sup>**, Qiao Ning<sup>*</sup>, Sh
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/HGMamba-ncRNA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A HyperGraphMamba-Based Multichannel Adaptive Model for ncRNA Classification](https://arxiv.org/abs/2509.20240) \\
+Xin An<sup>†</sup>, **Ruijie Li<sup>†</sup>**, Qiao Ning<sup>*</sup>, Hui Li, Qian Ma, Shikai Guo
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Computational Biology and Bioinformatics 2025</div><img src='images/DCFA-DMP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
