@@ -12,7 +12,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Artificial Intelligence in Medicine 2025</div><img src='images/SOC-DGL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Computational Biology and Bioinformatics 2025</div><img src='images/SOC-DGL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SOC-DGL: Social Interaction Behavior Inspired Dual Graph Learning Framework for Drug-Target Interaction Identification](https://arxiv.org/abs/2506.01405) \\
@@ -36,7 +36,7 @@ Xin An<sup>†</sup>, **Ruijie Li<sup>†</sup>**, Qiao Ning<sup>*</sup>, Shikai
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition 2025</div><img src='images/Mol-HCL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Computational Biology and Bioinformatics 2025</div><img src='images/Mol-HCL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Molecular-driven Multi-view Hypergraph Contrastive Learning for Drug-drug Interaction Prediction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5214161) \\
