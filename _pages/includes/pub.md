@@ -36,10 +36,10 @@ Xin An<sup>†</sup>, **Ruijie Li<sup>†</sup>**, Qiao Ning<sup>*</sup>, Shikai
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Computational Biology and Bioinformatics 2025</div><img src='images/tmp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Computational Biology and Bioinformatics, Mar. 2026</div><img src='images/tmp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Molecular-driven Multi-view Hypergraph Contrastive Learning for Drug-drug Interaction Prediction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5214161) \\
+[Molecular-driven Multi-view Hypergraph Contrastive Learning for Drug-drug Interaction Prediction](https://ieeexplore.ieee.org/abstract/document/11430627) \\
 Xinyu Li<sup>†</sup>, **Ruijie Li<sup>†</sup>**, Qiao Ning<sup>*</sup>, Shikai Guo, Hui Li, Qian Ma
 </div>
 </div>
