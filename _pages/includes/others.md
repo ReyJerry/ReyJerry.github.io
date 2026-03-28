@@ -8,4 +8,5 @@
 - None
 
 # 💻 Internships
+- *2026.01 - 2026.04*, Research Intern - LLM Pre-training, Data, ByteDance.
 - *2023.03 - 2025.06*, Part-time Research Assistant, TSMC Intelligent Software Engineering Laboratory and DUT Artificial Intelligence Institute.
