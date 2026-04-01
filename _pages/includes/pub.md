@@ -1,7 +1,8 @@
 
 # 📝 Publications 
+*: Corresponding author.<br>
 †: These authors contributed equally to this work.<br>
-*: Corresponding author.
+‡: Project Leader.
 ## 🧬 Bioinformatics
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Computational Biology and Bioinformatics, Jan. 2025</div><img src='images/MHMDA.png' alt="sym" width="100%"></div></div>
@@ -72,5 +73,11 @@ Kuiyang Che, Qiao Ning<sup>*</sup>, **Ruijie Li**, Xirun Wei, Hui Li, Shikai Guo
 </div>
 </div>
 
-## Others
-- None
+## 📷 Computer Vision
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/CPGNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Conditional Polarization Guidance for Camouflaged Object Detection](https://arxiv.org/abs/2603.30008) \\
+Qifan Zhang, Hao Wang<sup>*</sup>, Xiangrong Qin, **Ruijie Li<sup>‡</sup>**
+</div>
+</div> 
