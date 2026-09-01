@@ -93,6 +93,8 @@ Kuiyang Che, Qiao Ning<sup>*</sup>, **Ruijie Li**, Xirun Wei, Hui Li, Shikai Guo
 </div>
 
 - `Applied Ocean Research, Dec. 2024` [YOLO-MRS: An efficient deep learning-based maritime object detection method for unmanned surface vehicles](https://www.sciencedirect.com/science/article/abs/pii/S0141118724003614), Changdong Yu, Haoke Yin, Chenyi Rong<sup>†</sup>, Jiayi Zhao<sup>†</sup>, Xiao Liang<sup>*, †</sup>, **Ruijie Li<sup>†</sup>**, et al.
+</div>
+</div>
 
 ### 🏀 AI4Sports
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/HydraNet-f.png' alt="sym" width="100%"></div></div>
