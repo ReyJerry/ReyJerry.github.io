@@ -1,5 +1,5 @@
 # 🔥 News
-- *2026.08*: 🎉 One paper is accepted by <img src='./images/EMNLP 2026.png' style='width: 4em;'> <sup>EMNLP 2026</sup> (CCF B) 
+- *2026.08*: 🎉 One paper is accepted by <img src='./images/emnlp2026.png' style='width: 4em;'> <sup>EMNLP 2026</sup> (CCF B) 
 - *2026.03*: 🎉 One paper is accepted by <img src='./images/TCBB.png' style='width: 1.5em;'> <sup>IEEE Transactions on Computational Biology and Bioinformatics</sup> (SCI Q1, CCF B) 
 - *2025.08*: 🎉 I join the HKUST(GZ) <img src='./images/hkust(gz)1.png' style='width: 7.5em;'> as an MPhil student!
 - *2025.07*: 🎉 The recipient of the National "Role Model of the Times" Qu Jianwu Scholarship <img src='./images/qjw.png' style='width: 1.5em;'> (Top 0.027%)
