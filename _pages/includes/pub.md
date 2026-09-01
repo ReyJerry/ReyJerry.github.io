@@ -13,7 +13,7 @@ Yutian Jiang<sup>†</sup>, **Ruijie L<sup>†</sup>i**, Sisuo Lyu<sup>†</sup>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/SpecAct.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/SpecAct.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SpecAct: Speculative Tool Execution for Efficient Multimodal Agents]() \\
@@ -23,7 +23,7 @@ Shaokun Liu, Yansong Sun, **Ruijie Li**, Jiarui Tu, Huangxun Chen<sup>*</sup>
 
 ### 🔎 Interpretability
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/ReNA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/ReNA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ReNA: Detecting Contextual Hallucinations in RAG via Reference-Contrast Neuron Atlas]() \\
@@ -104,7 +104,7 @@ Kuiyang Che, Qiao Ning<sup>*</sup>, **Ruijie Li**, Xirun Wei, Hui Li, Shikai Guo
 </div>
 
 ### 💾 AI4EDA
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/CurcuitGate.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/CurcuitGate.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CIRCUITGATE: LOGIC-CONSISTENT CIRCUIT-LEVEL FUNCTIONAL MODELING FOR AND-INVERTER GRAPHS]() \\
