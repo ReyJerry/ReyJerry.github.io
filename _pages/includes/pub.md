@@ -3,8 +3,8 @@
 *: Corresponding author.<br>
 †: These authors contributed equally to this work.<br>
 ‡: Project Leader.
-## 🤖 LLM
-### Agents
+## 🦾 LLM
+### 🤖 Agents
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026, Aug. 2026</div><img src='images/GeoPave.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -13,7 +13,7 @@ Yutian Jiang<sup>†</sup>, **Ruijie L<sup>†</sup>i**, Sisuo Lyu<sup>†</sup>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI, Jul. 2025</div><img src='images/SpecAct.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/SpecAct.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SpecAct: Speculative Tool Execution for Efficient Multimodal Agents]() \\
@@ -21,9 +21,9 @@ Shaokun Liu, Yansong Sun, **Ruijie Li**, Jiarui Tu, Huangxun Chen<sup>*</sup>
 </div>
 </div>
 
-### Interpretability
+### 🔎 Interpretability
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI, Jul. 2025</div><img src='images/ReNA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/ReNA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ReNA: Detecting Contextual Hallucinations in RAG via Reference-Contrast Neuron Atlas]() \\
@@ -31,7 +31,8 @@ Qirong Guo, **Ruijie Li**, Weihang Ding, Xiaqiang Tang, Zeyan Li, Sihong Xie<sup
 </div>
 </div>
 
-## 🧬 Bioinformatics
+## 🔬 AI4S
+### 🧬 Bioinformatics
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Computational Biology and Bioinformatics, Jan. 2025</div><img src='images/MHMDA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -80,7 +81,8 @@ Xinyu Li<sup>†</sup>, **Ruijie Li<sup>†</sup>**, Qiao Ning<sup>*</sup>, Shik
 Kuiyang Che, Qiao Ning<sup>*</sup>, **Ruijie Li**, Xirun Wei, Hui Li, Shikai Guo
 </div>
 </div>
-## 🚗 AI4Transportation
+
+### 🚗 AI4Transportation
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors Journal, Sep. 2024</div><img src='images/YOLO-SGC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -92,12 +94,21 @@ Kuiyang Che, Qiao Ning<sup>*</sup>, **Ruijie Li**, Xirun Wei, Hui Li, Shikai Guo
 
 - `Applied Ocean Research, Dec. 2024` [YOLO-MRS: An efficient deep learning-based maritime object detection method for unmanned surface vehicles](https://www.sciencedirect.com/science/article/abs/pii/S0141118724003614), Changdong Yu, Haoke Yin, Chenyi Rong<sup>†</sup>, Jiayi Zhao<sup>†</sup>, Xiao Liang<sup>*, †</sup>, **Ruijie Li<sup>†</sup>**, et al.
 
-## 🏀 AI4Sports
+### 🏀 AI4Sports
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/HydraNet-f.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HydraNet: Momentum-Driven State Space Duality for Multi-Grained Tennis Tournaments Analysis](https://arxiv.org/abs/2505.21882) \\
 **Ruijie Li**, Xiang Zhao, Qiao Ning<sup>*</sup>, Shikai Guo
+</div>
+</div>
+
+### 💾 AI4EDA
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/CurcuitGate.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CIRCUITGATE: LOGIC-CONSISTENT CIRCUIT-LEVEL FUNCTIONAL MODELING FOR AND-INVERTER GRAPHS]() \\
+Qifan Zhang<sup>†</sup>, **Ruijie Li<sup>†</sup>**, Qian Ma<sup>*</sup>, Fangzhou Zhang, Hui Li, Furui Zhan, Yongpeng Weng, Li-Ying Hao, Shikai Guo
 </div>
 </div>
 
