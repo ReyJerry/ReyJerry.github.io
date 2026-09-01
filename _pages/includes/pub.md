@@ -3,6 +3,34 @@
 *: Corresponding author.<br>
 †: These authors contributed equally to this work.<br>
 ‡: Project Leader.
+## 🤖 LLM
+### Agents
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026, Aug. 2026</div><img src='images/GeoPave.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Perceive to Hypothesize, Verify to Ground: An Agentic Reasoning Framework for Open-World Geo-Localization](https://arxiv.org/abs/2608.29880v1) \\
+Yutian Jiang<sup>†</sup>, **Ruijie L<sup>†</sup>i**, Sisuo Lyu<sup>†</sup>, Xixuan Hao, Qingxiang Liu, Yongzi Yu, Yuxuan Liang<sup>*</sup>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI, Jul. 2025</div><img src='images/SpecAct.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SpecAct: Speculative Tool Execution for Efficient Multimodal Agents]() \\
+Shaokun Liu, Yansong Sun, **Ruijie Li**, Jiarui Tu, Huangxun Chen<sup>*</sup>
+</div>
+</div>
+
+### Interpretability
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI, Jul. 2025</div><img src='images/ReNA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ReNA: Detecting Contextual Hallucinations in RAG via Reference-Contrast Neuron Atlas]() \\
+Qirong Guo, **Ruijie Li**, Weihang Ding, Xiaqiang Tang, Zeyan Li, Sihong Xie<sup>*</sup>
+</div>
+</div>
+
 ## 🧬 Bioinformatics
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Computational Biology and Bioinformatics, Jan. 2025</div><img src='images/MHMDA.png' alt="sym" width="100%"></div></div>
