@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.08*: 🎉 One paper is accepted by <img src='./images/EMNLP 2026.png' style='width: 4em;'> <sup>EMNLP 2026</sup> (CCF B) 
 - *2026.03*: 🎉 One paper is accepted by <img src='./images/TCBB.png' style='width: 1.5em;'> <sup>IEEE Transactions on Computational Biology and Bioinformatics</sup> (SCI Q1, CCF B) 
 - *2025.08*: 🎉 I join the HKUST(GZ) <img src='./images/hkust(gz)1.png' style='width: 7.5em;'> as an MPhil student!
 - *2025.07*: 🎉 The recipient of the National "Role Model of the Times" Qu Jianwu Scholarship <img src='./images/qjw.png' style='width: 1.5em;'> (Top 0.027%)
@@ -11,5 +12,5 @@
 - *2024.11*: 🎉 The recipient of the Xiaomi Scholarship <img src='./images/xiaomi.png' style='width: 4.5em;'> (Top 0.119%)
 - *2024.09*: 🎉 One paper is accepted by <img src='./images/APOR.png' style='width: 1.5em;'> <sup>Applied Ocean Research</sup> (SCI Q1) 
 - *2024.09*: 🎉 One paper is accepted by <img src='./images/JS.png' style='width: 1.5em;'> <sup>IEEE Sensors Journal</sup> (SCI Q1)
-- *2024.02*: 🎉 Our paper has passed the first round of review for IJCAI 2024 <img src='./images/IJCAI.jpg' style='width: 4em;'> 
+- *2024.02*: 🎉 One paper has passed the first round of review for IJCAI 2024 <img src='./images/IJCAI.jpg' style='width: 4em;'> 
 - *2023.03*: 🎉 I join the TSMC Intelligent Software Engineering Laboratory and DUT Artificial Intelligence Institute <img src='./images/dutAI.png' style='width: 6em;'> as a research assistant!
