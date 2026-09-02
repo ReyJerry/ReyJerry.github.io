@@ -102,6 +102,7 @@ Kuiyang Che, Qiao Ning<sup>*</sup>, **Ruijie Li**, Xirun Wei, Hui Li, Shikai Guo
 [HydraNet: Momentum-Driven State Space Duality for Multi-Grained Tennis Tournaments Analysis](https://arxiv.org/abs/2505.21882) \\
 **Ruijie Li**, Xiang Zhao, Qiao Ning<sup>*</sup>, Shikai Guo
 </div>
+</div>
 
 ### 💾 AI4EDA
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/CircuitGate.png' alt="sym" width="100%"></div></div>
