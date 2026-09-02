@@ -9,7 +9,7 @@
 <div class='paper-box-text' markdown="1">
 
 [Perceive to Hypothesize, Verify to Ground: An Agentic Reasoning Framework for Open-World Geo-Localization](https://arxiv.org/abs/2608.29880v1) \\
-Yutian Jiang<sup>†</sup>, **Ruijie L<sup>†</sup>i**, Sisuo Lyu<sup>†</sup>, Xixuan Hao, Qingxiang Liu, Yongzi Yu, Yuxuan Liang<sup>*</sup>
+Yutian Jiang<sup>†</sup>, **Ruijie Li<sup>†</sup>**, Sisuo Lyu<sup>†</sup>, Xixuan Hao, Qingxiang Liu, Yongzi Yu, Yuxuan Liang<sup>*</sup>
 </div>
 </div>
 
