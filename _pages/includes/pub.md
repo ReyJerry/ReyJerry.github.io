@@ -113,6 +113,15 @@ Qifan Zhang<sup>†</sup>, **Ruijie Li<sup>†</sup>**, Qian Ma<sup>*</sup>, Fan
 </div>
 </div>
 
+### 💾 AI4LAW
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/judgmentlens_teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[JudgmentLens: Human-AI Sensemaking of Complex Legal Judgments](https://arxiv.org/abs/2609.07607) \\
+Xinyi Chen<sup>†</sup>, **Ruijie Li<sup>†</sup>**, Yuelu Li, Chen Liang<sup>*</sup>
+</div>
+</div>
+
 ## 📷 Computer Vision
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/CPGNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
