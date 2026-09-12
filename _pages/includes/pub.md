@@ -113,7 +113,7 @@ Qifan Zhang<sup>†</sup>, **Ruijie Li<sup>†</sup>**, Qian Ma<sup>*</sup>, Fan
 </div>
 </div>
 
-### 💾 AI4LAW
+### ⚖️ AI4LAW
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/judgmentlens_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
