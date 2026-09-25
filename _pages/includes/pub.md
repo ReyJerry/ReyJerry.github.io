@@ -5,7 +5,7 @@
 ‡: Project Leader.
 ## 🦾 LLM
 ### 🤖 Agents
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026, Aug. 2026</div><img src='images/GeoPave.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Oral, Aug. 2026</div><img src='images/GeoPave.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Perceive to Hypothesize, Verify to Ground: An Agentic Reasoning Framework for Open-World Geo-Localization](https://arxiv.org/abs/2608.29880v1) \\
