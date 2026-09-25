@@ -50,7 +50,7 @@ Xiang Zhao<sup>†</sup>, **Ruijie Li<sup>†</sup>**, Qiao Ning<sup>*</sup>, Sh
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2026, Sep. 2026</div><img src='images/HGMamba-ncRNA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2026 Oral, Sep. 2026</div><img src='images/HGMamba-ncRNA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A HyperGraphMamba-Based Multichannel Adaptive Model for ncRNA Classification](https://arxiv.org/abs/2509.20240) \\
