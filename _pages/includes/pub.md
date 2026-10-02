@@ -126,7 +126,7 @@ Kuiyang Che, Qiao Ning<sup>*</sup>, **Ruijie Li**, Xirun Wei, Hui Li, Shikai Guo
 <div class='paper-box-text' markdown="1">
 
 [CIRCUITGATE: LOGIC-CONSISTENT CIRCUIT-LEVEL FUNCTIONAL MODELING FOR AND-INVERTER GRAPHS]() \\
-Qifan Zhang<sup>†</sup>, **Ruijie Li<sup>†</sup>**, Qian Ma<sup>*</sup>, Fangzhou Zhang, Hui Li, Furui Zhan, Yongpeng Weng, Li-Ying Hao, Shikai Guo
+Qifan Zhang<sup>†</sup>, **Ruijie Li<sup>†</sup>**, Fangzhou Zhang, Qian Ma<sup>*</sup>, Hui Li, Furui Zhan, Yongpeng Weng, Li-Ying Hao, Shikai Guo
 </div>
 </div>
 
