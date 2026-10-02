@@ -4,7 +4,7 @@
 †: These authors contributed equally to this work.<br>
 ‡: Project Leader.
 ## 🦾 LLM
-### 🤖 Foundation Model Architecture
+### 🧠 Foundation Model Architecture
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/gated_slots_attention_2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
