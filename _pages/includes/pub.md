@@ -9,7 +9,7 @@
 <div class='paper-box-text' markdown="1">
 
 [Gated Slot Attention-2: Two-Sided Associative Memory Correction in Linear Attention]() \\
-**Ruijie Li<sup>†</sup>**, Shengnan Ding, Weimin Zhang<sup>*</sup>, Derick Tang<sup>*</sup>, Zhanpeng Zeng, Qinsong Zeng, Ming Chen, Jiaxi Hu<sup>*</sup>, Yuxuan Liang<sup>*</sup>
+**Ruijie Li**, Shengnan Ding, Weimin Zhang<sup>*</sup>, Derick Tang<sup>*</sup>, Zhanpeng Zeng, Qinsong Zeng, Ming Chen, Jiaxi Hu<sup>*</sup>, Yuxuan Liang<sup>*</sup>
 </div>
 </div>
 
