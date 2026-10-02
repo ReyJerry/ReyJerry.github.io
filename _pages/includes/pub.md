@@ -42,7 +42,7 @@ Qirong Guo, **Ruijie Li**, Weihang Ding, Xiaqiang Tang, Zeyan Li, Sihong Xie<sup
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Computational Biology and Bioinformatics 2025</div><img src='images/SOC-DGL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Computational Biology and Bioinformatics, Oct. 2026</div><img src='images/SOC-DGL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SOC-DGL: Social Interaction Behavior Inspired Dual Graph Learning Framework for Drug-Target Interaction Identification](https://arxiv.org/abs/2506.01405) \\
