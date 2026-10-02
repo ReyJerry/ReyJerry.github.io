@@ -4,6 +4,23 @@
 †: These authors contributed equally to this work.<br>
 ‡: Project Leader.
 ## 🦾 LLM
+### 🤖 Foundation Model Architecture
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/gated_slots_attention_2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Gated Slot Attention-2: Two-Sided Associative Memory Correction in Linear Attention]() \\
+**Ruijie Li<sup>†</sup>**, Shengnan Ding, Weimin Zhang<sup>*</sup>, Derick Tang<sup>*</sup>, Zhanpeng Zeng, Qinsong Zeng, Ming Chen, Jiaxi Hu<sup>*</sup>, Yuxuan Liang<sup>*</sup>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/PHBA_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PHBA: Prefix-State Hybrid Block Attention]() \\
+**Ruijie Li**, Jiaxi Hu<sup>*</sup>, Shiyu Wang<sup>*</sup>, Yuxuan Liang<sup>*</sup>
+</div>
+</div>
+
 ### 🤖 Agents
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Oral, Aug. 2026</div><img src='images/GeoPave.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
