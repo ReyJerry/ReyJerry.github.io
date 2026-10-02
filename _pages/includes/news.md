@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.10*: 🎉 One paper is accepted by <img src='./images/TCBB.png' style='width: 1.5em;'> <sup>IEEE Transactions on Computational Biology and Bioinformatics</sup> (SCI Q1, CCF B) 
 - *2026.09*: 🎉 One paper is accepted by <img src='./images/BIBM.png' style='width: 4em;'> <sup>BIBM 2026 Oral</sup> (CCF B)
 - *2026.08*: 🎉 One paper is accepted by <img src='./images/emnlp2026.png' style='width: 4em;'> <sup>EMNLP 2026 Oral</sup> (CCF B) 
 - *2026.03*: 🎉 One paper is accepted by <img src='./images/TCBB.png' style='width: 1.5em;'> <sup>IEEE Transactions on Computational Biology and Bioinformatics</sup> (SCI Q1, CCF B) 
