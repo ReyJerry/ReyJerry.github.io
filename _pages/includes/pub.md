@@ -147,3 +147,7 @@ Xinyi Chen<sup>†</sup>, **Ruijie Li<sup>†</sup>**, Yuelu Li, Chen Liang<sup>
 Qifan Zhang, Hao Wang<sup>*</sup>, Xiangrong Qin, **Ruijie Li<sup>‡</sup>**
 </div>
 </div> 
+
+<div class='paper-box-text' markdown="1">
+- `Arxiv 2026` [ReDiffNet: Differential RGB-Infrared Learning for Low-Light UAV Oriented Vehicle Detection](https://arxiv.org/abs/2610.05074), Qifan Zhang, Ziran Zhou, **Ruijie Li**, Jincheng Tang, Hao Wang, Qihao Qiao, Chunliu Wang<sup>*</sup>
+</div>
