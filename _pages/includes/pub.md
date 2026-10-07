@@ -16,7 +16,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/PHBA_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PHBA: Prefix-State Hybrid Block Attention]() \\
+[PHBA: Prefix-State Hybrid Block Attention](https://arxiv.org/abs/2610.08527) \\
 **Ruijie Li**, Jiaxi Hu<sup>*</sup>, Shiyu Wang<sup>*</sup>, Yuxuan Liang<sup>*</sup>
 </div>
 </div>
