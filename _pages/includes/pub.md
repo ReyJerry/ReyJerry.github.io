@@ -148,6 +148,14 @@ Qifan Zhang, Hao Wang<sup>*</sup>, Xiangrong Qin, **Ruijie Li<sup>‡</sup>**
 </div>
 </div> 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/FFMT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FFMT: Frequency-Factorized Multi-Rate Tokenization For Music-to-Dance Generation]() \\
+Qirong Guo<sup>†</sup>, **Ruijie Li<sup>†</sup>**, Zeyan Li, Sicheng Shu, Guanzhi Ding, Weihang Ding
+</div>
+</div> 
+
 <div class='paper-box-text' markdown="1">
 - `Arxiv 2026` [ReDiffNet: Differential RGB-Infrared Learning for Low-Light UAV Oriented Vehicle Detection](https://arxiv.org/abs/2610.05074), Qifan Zhang, Ziran Zhou, **Ruijie Li**, Jincheng Tang, Hao Wang, Qihao Qiao, Chunliu Wang<sup>*</sup>
 </div>
