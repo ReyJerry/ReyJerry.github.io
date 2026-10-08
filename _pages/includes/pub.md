@@ -125,7 +125,7 @@ Kuiyang Che, Qiao Ning<sup>*</sup>, **Ruijie Li**, Xirun Wei, Hui Li, Shikai Guo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/CircuitGate.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CIRCUITGATE: LOGIC-CONSISTENT CIRCUIT-LEVEL FUNCTIONAL MODELING FOR AND-INVERTER GRAPHS]() \\
+[CIRCUITGATE: LOGIC-CONSISTENT CIRCUIT-LEVEL FUNCTIONAL MODELING FOR AND-INVERTER GRAPHS](https://arxiv.org/abs/2610.09549) \\
 Qifan Zhang<sup>†</sup>, **Ruijie Li<sup>†</sup>**, Fangzhou Zhang, Qian Ma<sup>*</sup>, Hui Li, Furui Zhan, Yongpeng Weng, Li-Ying Hao, Shikai Guo
 </div>
 </div>
