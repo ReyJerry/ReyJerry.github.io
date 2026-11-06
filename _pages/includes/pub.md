@@ -151,7 +151,7 @@ Qifan Zhang, Hao Wang<sup>*</sup>, Xiangrong Qin, **Ruijie Li<sup>‡</sup>**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/FFMT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FFMT: Frequency-Factorized Multi-Rate Tokenization For Music-to-Dance Generation]() \\
+[FFMT: Frequency-Factorized Multi-Rate Tokenization For Music-to-Dance Generation](https://arxiv.org/abs/2611.07384) \\
 Qirong Guo<sup>†</sup>, **Ruijie Li<sup>†</sup>**, Zeyan Li, Sicheng Shu, Guanzhi Ding, Weihang Ding
 </div>
 </div> 
